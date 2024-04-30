@@ -23,8 +23,11 @@ Model Selection:
 
 Choose appropriate machine learning algorithms for the task of loan eligibility prediction. In this project, we have chosen Decision Trees and Naive Bayes.
 Understand the strengths and weaknesses of each algorithm and how they apply to the problem at hand.
+DECISION TREE
 
 ![image](https://github.com/Roshni383/Loan-Eligibility-Prediction/assets/134057784/8016a226-8a00-4b58-a09d-6c64891b1ba9)
+
+NAIVE BAYES
 
 ![image](https://github.com/Roshni383/Loan-Eligibility-Prediction/assets/134057784/054e4e49-fb18-402c-9756-03fbe8ba0818)
 
