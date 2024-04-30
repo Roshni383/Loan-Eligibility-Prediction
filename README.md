@@ -7,6 +7,8 @@ Step-by-Step Process:
 Data Cleaning:
 
 The first step involves cleaning the dataset to ensure it is ready for training the machine learning models. This includes handling missing values, removing duplicates, and encoding categorical variables if necessary.
+![image](https://github.com/Roshni383/Loan-Eligibility-Prediction/assets/134057784/418290b3-94f8-453a-86a9-aabf80bc078a)
+
 
 Data Preprocessing:
 
@@ -27,10 +29,6 @@ Model Evaluation:
 
 Evaluate the trained models using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score.
 Compare the performance of Decision Trees and Naive Bayes models based on their prediction accuracy.
-
-Model Tuning (Optional):
-
-If necessary, tune the hyperparameters of the models to improve their performance. This can be done using techniques such as cross-validation or grid search.
 
 Final Model Selection:
 
